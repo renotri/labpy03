@@ -26,4 +26,6 @@ kedelapan refresh page githubnya
 
 kesembilan commit changes
 
-sepuluh github siap digunakan
+sepuluh commit changse
+
+sebelas github siap digunakan
