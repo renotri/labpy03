@@ -24,6 +24,6 @@ ketuju paste git bash tersebut
 
 kedelapan refresh page githubnya
 
-kesembilan github siap digunakan
+kesembilan commit changes
 
-sepuluh selesai
+sepuluh github siap digunakan
